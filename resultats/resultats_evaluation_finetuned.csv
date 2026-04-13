@@ -1,0 +1,21 @@
+question,rouge_l,bleu,f1
+Qui a réévalué la liste des médicaments oxydants à éviter pour les sujets défici,0.8333333333333334,0.6950431007404801,0.8500000000000001
+Qui peut fournir des conseils en cas de symptômes tels que la fièvre élevée ou l,0.5538461538461538,0.40236057392677443,0.5909090909090909
+Quelles sont les précautions prises par l'OMS pour vérifier les informations con,1.0,1.0,1.0
+Quel est le rôle du Groupe technique spécial pour vaincre la méningite à l'horiz,0.7659574468085107,0.5635345428113973,0.75
+Quels sont les risques potentiels pour les personnes exposées aux rassemblements,0.1081081081081081,0.011191021613657745,0.14814814814814814
+Comment l'OMS représente-t-elle les frontières approximatives sur les cartes ?,0.4545454545454545,0.11648586760902359,0.34782608695652173
+Quel est l'ISBN de la version imprimée du manuel technique de l'OMS sur la polit,0.9393939393939394,0.9210589320522863,0.9500000000000001
+Quelle est l'hyperbilirubinémie franche en cas de Sd de Gilbert associé ?,0.4444444444444445,0.07317324884772676,0.2857142857142857
+Pourquoi est-il important de former les professionnels de la protection de l'enf,0.39999999999999997,0.2742810730309622,0.5283018867924528
+Quelle est l'importance du soutien et de la formation des familles dans le cadre,0.3902439024390244,0.21451278268552823,0.4444444444444444
+"Quels pays ont éliminé une MTN, selon l'OMS en 2024 ?",0.6285714285714286,0.34335288715526285,0.5777777777777778
+Quel est le traitement utilisé pour l'onchocercose et combien de personnes ont é,0.6666666666666666,0.2166080968124605,0.6
+Où peuvent être téléchargés le document et sa référence bibliographique ?,0.5853658536585366,0.2680165156355778,0.6363636363636365
+Comment les cartes sont-elles préparées et mises à jour dans le contexte de la v,0.21818181818181817,0.02291715038049363,0.39999999999999997
+Quel est le lien pour soumettre une demande en vue d'un usage commercial ou une ,0.9473684210526316,0.8531413606256201,0.9500000000000001
+Quelle est la date de publication de la deuxième édition du guide de mise en œuv,0.06060606060606061,0.010331208012220438,0.0
+Quelle est la proportion de cas d'infection par le HPV qui évoluent vers des lés,0.7555555555555556,0.4467710283121972,0.717948717948718
+Quelle est la licence sous laquelle est publié le guide pratique ?,1.0,1.0,1.0
+Qui sont les personnes clés impliquées dans l'élaboration du document sur la sur,0.40579710144927544,0.2502905917899675,0.4680851063829787
+Quel est l'objectif principal des Lignes directrices de l'Organisation mondiale ,0.45833333333333326,0.060649666273861556,0.4444444444444444
