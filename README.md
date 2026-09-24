@@ -65,4 +65,3 @@ Consultez le fichier `comparaison_rag.ipynb` pour voir l'analyse comparative des
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT.
